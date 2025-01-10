@@ -1,0 +1,8 @@
+go 1.23.3
+
+use (
+	.
+	./demo/helloworld
+	./demo/order
+	./demo/product
+)
